@@ -23,4 +23,4 @@ Toolkits for TPP-related works, most of the codes are contributed by [Hongyuan M
 1. **Noise-Contrastive Estimation for Multivariate Point Processes**. *Hongyuan Mei, Tom Wan, Jason Eisner*. NeurIPS 2020. [[code](https://github.com/HMEIatJHU/nce-mpp)] [[pdf](https://arxiv.org/pdf/2011.00717.pdf)]  [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+wan+eisner.neurips20.talk.pdf)]
 
 ### 2.2 Imputation
-3. **Imputing Missing Events in Continuous-Time Event Streams**. *Hongyuan Mei, Guanghui Qin, Jason Eisner*. ICML 2019. [[code](https://github.com/HMEIatJHU/neurawkes)] [[pdf](https://arxiv.org/pdf/1905.05570.pdf)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+qin+eisner.icml19.talk.pdf)]
+1. **Imputing Missing Events in Continuous-Time Event Streams**. *Hongyuan Mei, Guanghui Qin, Jason Eisner*. ICML 2019. [[code](https://github.com/HMEIatJHU/neurawkes)] [[pdf](https://arxiv.org/pdf/1905.05570.pdf)] [[slides](https://www.cs.jhu.edu/~hmei/papers/mei+qin+eisner.icml19.talk.pdf)]
