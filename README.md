@@ -1,13 +1,13 @@
 # Temporal Point Process (TPP) Toolkits
-Toolkits for TPP-related works, most of the codes are contributed by [[Hongyuan Mei](https://www.cs.jhu.edu/~hmei/)]. This page is maintained by Chenghao Yang as a systematic entry for Hongyuan's works.
+Toolkits for TPP-related works, most of the codes are contributed by [Hongyuan Mei](https://www.cs.jhu.edu/~hmei/). This page is maintained by Chenghao Yang as a systematic entry for Hongyuan's works.
 
 ### Contents
 * [1. TPP Modeling](#1-tpp-modeling)
-  * [1.1 Unstructured TPP] (#11-unstructured-tpp)
-  * [1.2 Structured TPP] (#12-structured-tpp)
+  * [1.1 Unstructured TPP](#11-unstructured-tpp)
+  * [1.2 Structured TPP](#12-structured-tpp)
 * [2. TPP Algorithm](#2-tpp-algorithm)
-  * [2.1 Noise-contrastive Estimation] (#21-noise-contrastive-estimation)
-  * [2.2 Imputation] (#22-imputation)
+  * [2.1 Noise-contrastive Estimation](#21-noise-contrastive-estimation)
+  * [2.2 Imputation](#22-imputation)
 
 ## 1. TPP Modeling
 
